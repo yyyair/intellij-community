@@ -186,7 +186,6 @@ java_library(
     "//plugins/markdown/plugin:plugin-main",
     "//plugins/webp",
     "//plugins/emojipicker",
-    "//plugins/gradle/gradle-dependency-updater:dependencyUpdater",
     "//platform/settings-sync-core:settingsSync-core",
     "//plugins/settings-sync/jba:settingsSync",
     "//java/java-features-trainer:featuresTrainer",
