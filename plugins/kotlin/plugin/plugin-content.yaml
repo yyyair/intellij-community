@@ -171,7 +171,6 @@
   - name: kotlin.run-configurations.jvm
   - name: kotlin.run-configurations.junit
   - name: kotlin.run-configurations.junit-fe10
-  - name: kotlin.run-configurations.testng
   - name: kotlin.formatter
   - name: kotlin.repl
   - name: kotlin.git

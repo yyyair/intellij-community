@@ -106,7 +106,6 @@ object KotlinPluginBuilder {
     "kotlin.run-configurations.jvm",
     "kotlin.run-configurations.junit",
     "kotlin.run-configurations.junit-fe10",
-    "kotlin.run-configurations.testng",
     "kotlin.formatter",
     "kotlin.repl",
     "kotlin.git",

@@ -1,0 +1,30 @@
+<!-- Copyright 2000-2025 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+
+<idea-plugin>
+
+  <!-- Unique id for this plugin. Must stay constant for the life of the plugin. -->
+  <id>org.intellij.sdk.treeStructureProvider</id>
+
+  <!-- Text to display as name on Settings | Plugin page -->
+  <name>SDK: Tree Structure Provider Sample</name>
+  <category>Build Tools</category>
+  <!-- Indicate this plugin can be loaded in all IntelliJ Platform-based products. -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <!-- Text to display as description on Settings | Plugin page -->
+  <description>
+    <![CDATA[
+      Tree Structure Provider showing only plain text files.
+      <br>See the <a href="https://plugins.jetbrains.com/docs/intellij/tree-structure-view.html">Tree
+      Structure View</a> for more information.
+    ]]>
+  </description>
+
+  <!-- Text to display as company information on Settings | Plugin page -->
+  <vendor>JetBrains</vendor>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <fileType name="Image" extensions="webp"/>
+  </extensions>
+
+</idea-plugin>

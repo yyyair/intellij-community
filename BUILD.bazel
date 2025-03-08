@@ -185,6 +185,7 @@ java_library(
     "//plugins/markdown/core:markdown",
     "//plugins/markdown/plugin:plugin-main",
     "//plugins/webp",
+    "//plugins/workshop-test",
     "//plugins/emojipicker",
     "//platform/settings-sync-core:settingsSync-core",
     "//plugins/settings-sync/jba:settingsSync",
