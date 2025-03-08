@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="intellij.platform.util" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.platform.monolith.main" scope="TEST" />
+    <orderEntry type="module" module-name="workshop.test" />
   </component>
 </module>

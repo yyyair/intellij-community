@@ -37,5 +37,6 @@
     <module name="intellij.platform.recentFiles"/>
     <module name="intellij.platform.recentFiles.frontend"/>
     <module name="intellij.platform.recentFiles.backend"/>
+    <module name="workshop.test" />
   </content>
 </idea-plugin>
