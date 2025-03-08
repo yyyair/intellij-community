@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="googlecode.sli4j.slf4j.simple" type="repository">
+    <properties maven-id="com.googlecode.sli4j:sli4j-slf4j-simple:2.0">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/googlecode/sli4j/sli4j-slf4j-simple/2.0/sli4j-slf4j-simple-2.0.jar">
+          <sha256sum>1774afba42be12791adf81435b4e5a1801914ae83ba22e80c20645b509b5d273</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/googlecode/sli4j/sli4j-core/2.0/sli4j-core-2.0.jar">
+          <sha256sum>e700e3ef83b50b76c7aaee634693f1802e2de29e8e55b5b154e1408d28496b8b</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/google/inject/guice/2.0/guice-2.0.jar">
+          <sha256sum>9fb545199584a41e8064e1232ca3f3c757366b27fc7aa488ac0fc98263642756</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar">
+          <sha256sum>0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.jar">
+          <sha256sum>e66f1976acfa04a01d463b055363250fe5526cbcef2c39259e881f802e60b5f3</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.5.10/slf4j-simple-1.5.10.jar">
+          <sha256sum>3038563603d10ef66dc09f8e3afeddb353dabc25218e8917fe59e84656f9da8e</sha256sum>
+        </artifact>
+      </verification>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/sli4j/sli4j-slf4j-simple/2.0/sli4j-slf4j-simple-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/sli4j/sli4j-core/2.0/sli4j-core-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/2.0/guice-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.5.10/slf4j-simple-1.5.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

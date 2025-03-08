@@ -14,8 +14,11 @@ import com.intellij.openapi.vfs.LocalFileSystem;
 import com.intellij.openapi.vfs.VirtualFile;
 import com.intellij.psi.PsiDirectory;
 import com.intellij.psi.PsiFile;
+import com.intellij.psi.PsiFileFactory;
 import com.intellij.psi.PsiManager;
+import com.intellij.psi.search.FilenameIndex;
 import com.intellij.util.containers.ContainerUtil;
+import com.workshop.apk.APKFileSystem;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
@@ -60,7 +63,7 @@ public class ProjectViewProjectNode extends AbstractProjectNode {
     }
 
 
-    List<AbstractTreeNode<?>> nodes = new ArrayList<>(modulesAndGroups(modules));
+    List<AbstractTreeNode<?>> nodes = new ArrayList<>();
 
     String baseDirPath = project.getBasePath();
     VirtualFile baseDir = baseDirPath == null ? null : LocalFileSystem.getInstance().findFileByPath(baseDirPath);
@@ -86,6 +89,7 @@ public class ProjectViewProjectNode extends AbstractProjectNode {
     if (getSettings().isShowLibraryContents()) {
       nodes.add(new ExternalLibrariesNode(project, getSettings()));
     }
+    nodes.add(new ApkListNode(project, getSettings()));
     return nodes;
   }
 

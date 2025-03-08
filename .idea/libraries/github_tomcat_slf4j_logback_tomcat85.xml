@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="github.tomcat.slf4j.logback.tomcat85" type="repository">
+    <properties maven-id="com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.99">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/com/github/tomcat-slf4j-logback/tomcat85-slf4j-logback/8.5.99/tomcat85-slf4j-logback-8.5.99.jar">
+          <sha256sum>9f555eed2ec220ee1500667afa7a327639a99642de6f22c9c34eb10937a2cd59</sha256sum>
+        </artifact>
+      </verification>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/tomcat-slf4j-logback/tomcat85-slf4j-logback/8.5.99/tomcat85-slf4j-logback-8.5.99.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
