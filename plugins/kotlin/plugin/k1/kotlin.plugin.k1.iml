@@ -130,7 +130,6 @@
     <orderEntry type="module" module-name="kotlin.repl" scope="RUNTIME" />
     <orderEntry type="module" module-name="kotlin.scripting" scope="RUNTIME" />
     <orderEntry type="module" module-name="kotlin.spellchecker" scope="RUNTIME" />
-    <orderEntry type="module" module-name="kotlin.run-configurations.testng" scope="RUNTIME" />
     <orderEntry type="module" module-name="kotlin.uast.uast-kotlin-base" scope="RUNTIME" />
     <orderEntry type="module" module-name="kotlin.uast.uast-kotlin" scope="RUNTIME" />
     <orderEntry type="module" module-name="kotlin.uast.uast-kotlin-idea-base" scope="RUNTIME" />

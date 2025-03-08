@@ -1045,7 +1045,6 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/terminal/completion/intellij.terminal.completion.iml" filepath="$PROJECT_DIR$/plugins/terminal/completion/intellij.terminal.completion.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/terminal/frontend/intellij.terminal.frontend.iml" filepath="$PROJECT_DIR$/plugins/terminal/frontend/intellij.terminal.frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/terminal/sh/intellij.terminal.sh.iml" filepath="$PROJECT_DIR$/plugins/terminal/sh/intellij.terminal.sh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/testng/intellij.testng.iml" filepath="$PROJECT_DIR$/plugins/testng/intellij.testng.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/testng_rt/intellij.testng.rt.iml" filepath="$PROJECT_DIR$/plugins/testng_rt/intellij.testng.rt.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/testng_rt/tests/intellij.testng.rt.tests.iml" filepath="$PROJECT_DIR$/plugins/testng_rt/tests/intellij.testng.rt.tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/textmate/intellij.textmate.iml" filepath="$PROJECT_DIR$/plugins/textmate/intellij.textmate.iml" />
@@ -1354,7 +1353,6 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/run-configurations/junit/kotlin.run-configurations.junit.iml" filepath="$PROJECT_DIR$/plugins/kotlin/run-configurations/junit/kotlin.run-configurations.junit.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/run-configurations/junit-fe10/kotlin.run-configurations.junit-fe10.iml" filepath="$PROJECT_DIR$/plugins/kotlin/run-configurations/junit-fe10/kotlin.run-configurations.junit-fe10.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/run-configurations/jvm/kotlin.run-configurations.jvm.iml" filepath="$PROJECT_DIR$/plugins/kotlin/run-configurations/jvm/kotlin.run-configurations.jvm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/run-configurations/testng/kotlin.run-configurations.testng.iml" filepath="$PROJECT_DIR$/plugins/kotlin/run-configurations/testng/kotlin.run-configurations.testng.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/scripting/kotlin.scripting.iml" filepath="$PROJECT_DIR$/plugins/kotlin/scripting/kotlin.scripting.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/scripting-plugin/kotlin.scripting-plugin.iml" filepath="$PROJECT_DIR$/plugins/kotlin/scripting-plugin/kotlin.scripting-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/kotlin/scripting-support/kotlin.scripting-support.iml" filepath="$PROJECT_DIR$/plugins/kotlin/scripting-support/kotlin.scripting-support.iml" />

@@ -84,7 +84,6 @@
     <orderEntry type="module" module-name="intellij.regexp" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.vcs.svn" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.vcs.svn.tests" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.testng" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.java.langInjection" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.xml.langInjection" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.xpath" scope="RUNTIME" />
