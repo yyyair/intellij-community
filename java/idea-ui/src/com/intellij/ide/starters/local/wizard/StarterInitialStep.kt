@@ -119,17 +119,17 @@ open class StarterInitialStep(contextProvider: StarterContextProvider) : CommonS
         }
       }
 
-      if (starterSettings.projectTypes.isNotEmpty()) {
-        val messages = starterSettings.customizedMessages
-        row(messages?.projectTypeLabel ?: JavaStartersBundle.message("title.project.build.system.label")) {
-          segmentedButton(starterSettings.projectTypes) {
-            text = it.title
-            toolTipText = it.description
-          }.bind(projectTypeProperty)
-
-          bottomGap(BottomGap.SMALL)
-        }
-      }
+      //if (starterSettings.projectTypes.isNotEmpty()) {
+      //  val messages = starterSettings.customizedMessages
+      //  row(messages?.projectTypeLabel ?: JavaStartersBundle.message("title.project.build.system.label")) {
+      //    segmentedButton(starterSettings.projectTypes) {
+      //      text = it.title
+      //      toolTipText = it.description
+      //    }.bind(projectTypeProperty)
+      //
+      //    bottomGap(BottomGap.SMALL)
+      //  }
+      //}
 
       if (starterSettings.testFrameworks.size > 1) {
         row(JavaStartersBundle.message("title.project.test.framework.label")) {
