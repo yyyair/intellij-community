@@ -452,7 +452,6 @@
       <module fileurl="file://$PROJECT_DIR$/java/compiler/instrumentation-util/intellij.java.compiler.instrumentationUtil.iml" filepath="$PROJECT_DIR$/java/compiler/instrumentation-util/intellij.java.compiler.instrumentationUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/compiler/instrumentation-util-8/intellij.java.compiler.instrumentationUtil.java8.iml" filepath="$PROJECT_DIR$/java/compiler/instrumentation-util-8/intellij.java.compiler.instrumentationUtil.java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/compiler/intellij.java.compiler.tests.iml" filepath="$PROJECT_DIR$/java/compiler/intellij.java.compiler.tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/coverage/intellij.java.coverage.iml" filepath="$PROJECT_DIR$/plugins/coverage/intellij.java.coverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/coverage/coverage_rt/intellij.java.coverage.rt.iml" filepath="$PROJECT_DIR$/plugins/coverage/coverage_rt/intellij.java.coverage.rt.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/debugger/openapi/intellij.java.debugger.iml" filepath="$PROJECT_DIR$/java/debugger/openapi/intellij.java.debugger.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/debugger/debugger-agent/intellij.java.debugger.agent.holder.iml" filepath="$PROJECT_DIR$/java/debugger/debugger-agent/intellij.java.debugger.agent.holder.iml" />
@@ -657,7 +656,6 @@
       <module fileurl="file://$PROJECT_DIR$/platform/core-nio-fs/intellij.platform.core.nio.fs.benchmarks.iml" filepath="$PROJECT_DIR$/platform/core-nio-fs/intellij.platform.core.nio.fs.benchmarks.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/core-nio-fs/intellij.platform.core.nio.fs.tests.iml" filepath="$PROJECT_DIR$/platform/core-nio-fs/intellij.platform.core.nio.fs.tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/core-ui/intellij.platform.core.ui.iml" filepath="$PROJECT_DIR$/platform/core-ui/intellij.platform.core.ui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/coverage-common/intellij.platform.coverage.iml" filepath="$PROJECT_DIR$/plugins/coverage-common/intellij.platform.coverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/coverage-common/intellij.platform.coverage.agent/intellij.platform.coverage.agent.iml" filepath="$PROJECT_DIR$/plugins/coverage-common/intellij.platform.coverage.agent/intellij.platform.coverage.agent.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/credential-store/intellij.platform.credentialStore.iml" filepath="$PROJECT_DIR$/platform/credential-store/intellij.platform.credentialStore.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform/credential-store-impl/intellij.platform.credentialStore.impl.iml" filepath="$PROJECT_DIR$/platform/credential-store-impl/intellij.platform.credentialStore.impl.iml" />
@@ -1035,8 +1033,6 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/terminal/completion/intellij.terminal.completion.iml" filepath="$PROJECT_DIR$/plugins/terminal/completion/intellij.terminal.completion.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/terminal/frontend/intellij.terminal.frontend.iml" filepath="$PROJECT_DIR$/plugins/terminal/frontend/intellij.terminal.frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/terminal/sh/intellij.terminal.sh.iml" filepath="$PROJECT_DIR$/plugins/terminal/sh/intellij.terminal.sh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/testng/intellij.testng.iml" filepath="$PROJECT_DIR$/plugins/testng/intellij.testng.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/testng_rt/intellij.testng.rt.iml" filepath="$PROJECT_DIR$/plugins/testng_rt/intellij.testng.rt.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/testng_rt/tests/intellij.testng.rt.tests.iml" filepath="$PROJECT_DIR$/plugins/testng_rt/tests/intellij.testng.rt.tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/textmate/intellij.textmate.iml" filepath="$PROJECT_DIR$/plugins/textmate/intellij.textmate.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/textmate/core/intellij.textmate.core.iml" filepath="$PROJECT_DIR$/plugins/textmate/core/intellij.textmate.core.iml" />

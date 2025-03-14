@@ -29,7 +29,6 @@
     <orderEntry type="module" module-name="intellij.java.compiler.instrumentationUtil" />
     <orderEntry type="module" module-name="intellij.java.langInjection" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.xml.langInjection" scope="RUNTIME" />
-    <orderEntry type="module" module-name="intellij.testng" scope="TEST" />
     <orderEntry type="module" module-name="intellij.java.guiForms.designer" scope="TEST" />
     <orderEntry type="module" module-name="intellij.eclipse" scope="TEST" />
     <orderEntry type="module" module-name="intellij.java.execution" />
@@ -58,7 +57,6 @@
     <orderEntry type="module" module-name="intellij.copyright" scope="TEST" />
     <orderEntry type="module" module-name="intellij.jvm.analysis.impl" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.lvcs.impl" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.java.coverage" exported="" />
     <orderEntry type="module" module-name="intellij.platform.workspace.jps" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="jackson" level="project" />
     <orderEntry type="library" scope="TEST" name="jackson-databind" level="project" />
