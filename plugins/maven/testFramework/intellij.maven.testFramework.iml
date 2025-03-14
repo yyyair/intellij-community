@@ -8,7 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="intellij.platform.testFramework" />
-    <orderEntry type="module" module-name="intellij.maven" />
     <orderEntry type="module-library">
       <library name="io.takari.maven.wrapper" type="repository">
         <properties maven-id="io.takari:maven-wrapper:0.5.5">
@@ -28,7 +27,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="intellij.platform.util.jdom" />
-    <orderEntry type="module" module-name="intellij.repository.search" />
     <orderEntry type="module" module-name="intellij.java.rt" />
     <orderEntry type="module" module-name="intellij.java.impl" />
     <orderEntry type="module" module-name="intellij.platform.usageView" />
